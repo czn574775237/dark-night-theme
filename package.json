@@ -1,0 +1,21 @@
+{
+  "name": "the-dark-night",
+  "displayName": "the dark night",
+  "description": "Copy from The dark Horizon and customlize something",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "The Dark Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/zhining-color-theme.json"
+      }
+    ]
+  }
+}
