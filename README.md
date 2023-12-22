@@ -2,7 +2,7 @@
 
 ## Theme
 
-the theme is copy from `Dark Horizon` with some customized color.
+the theme is copy from [`Dark Horizon`](https://marketplace.visualstudio.com/items?itemName=mcagampan.dark-horizon&ssr=false#overview) with some customized color.
 
 ## For more information
 
