@@ -2,11 +2,11 @@
   "name": "the-dark-night",
   "displayName": "the dark night",
   "description": "Copy from The dark Horizon and customize something",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "zhining",
   "repository": "https://github.com/czn574775237/dark-night-theme.git",
   "engines": {
-    "vscode": "^1.85.0"
+    "vscode": "^1.0.0"
   },
   "categories": [
     "Themes"
