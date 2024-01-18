@@ -1,7 +1,7 @@
 {
   "name": "The Dark Night",
   "colors": {
-    "editor.background": "#0e0e0e",
+    "editor.background": "#000000",
     "tab.activeBackground": "#0e0e0e",
     "tab.inactiveBackground": "#0e0e0e",
     "sideBar.background": "#0e0e0e",
